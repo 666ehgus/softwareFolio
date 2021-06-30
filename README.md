@@ -4,7 +4,7 @@
      title="px(픽셀) 크기 설정" alt="Gitbut_fork"></img><br/>
 
 ### * [소개][소개link]
-[소개link][https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%95%88%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90-%EA%B1%B4%EC%B6%95%EA%B3%B5%ED%95%99%EA%B3%BC-4%ED%95%99%EB%85%84-%EA%B9%80%EB%8F%84%ED%98%84]
+[소개link]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%95%88%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90-%EA%B1%B4%EC%B6%95%EA%B3%B5%ED%95%99%EA%B3%BC-4%ED%95%99%EB%85%84-%EA%B9%80%EB%8F%84%ED%98%84
 ### * 학력
 ### * 장점
 ### * 자주가는 사이트
