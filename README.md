@@ -4,19 +4,19 @@
      title="px(픽셀) 크기 설정" alt="Gitbut_fork"></img><br/>
 
 ### [소개]
-[소개]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%95%88%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90-%EA%B1%B4%EC%B6%95%EA%B3%B5%ED%95%99%EA%B3%BC-4%ED%95%99%EB%85%84-%EA%B9%80%EB%8F%84%ED%98%84
+[소개]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%86%8C%EA%B0%9C-1
 ### [학력]
-[학력]:
+[학력]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%ED%95%99%EB%A0%A5-1
 ### [성격]
-[성격]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%84%B1%EA%B2%A9%EC%9D%B4-%EC%9C%A0%ED%95%98%EC%97%AC-%ED%81%AC%EA%B2%8C-%ED%99%94%EB%82%98%EB%8A%94%EC%9D%BC-%EC%97%86%EC%9D%B4-%EB%AC%BC%ED%9D%90%EB%A5%B4%EB%93%AF-%EC%A7%80%EB%82%98%EA%B0%88-%EC%88%98-%EC%9E%88%EB%8B%A4
+[성격]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%84%B1%EA%B2%A9-1
 ### [장점]
-[장점]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EB%AA%A9%ED%91%9C%EA%B0%80-%EC%A3%BC%EC%96%B4%EC%A7%80%EB%A9%B4-%EC%B5%9C%EC%84%A0%EC%9D%84-%EB%8B%A4%ED%95%B4-%EB%8B%AC%EC%84%B1%ED%95%B4%EB%82%B8%EB%8B%A4
+[장점]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%9E%A5%EC%A0%90-1
 ### [자주가는 사이트]
-[자주가는 사이트]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%99%B8%EB%B6%80%EB%A7%81%ED%81%AC-httpnavercom
+[자주가는 사이트]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%9E%90%EC%A3%BC%EA%B0%80%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-1
 ### [프로젝트 참여 목록]
-[프로젝트 참여 목록]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8capstone-design
+[프로젝트 참여 목록]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EC%97%AC-%EB%AA%A9%EB%A1%9D-1
 ### [잘 다루는 SW language]
-[잘 다루는 SW language]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-c%EC%96%B8%EC%96%B4
+[잘 다루는 SW language]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%9E%98-%EB%8B%A4%EB%A3%A8%EB%8A%94-sw-language-1
 
 
 
