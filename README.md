@@ -10,11 +10,12 @@
 [성격]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%84%B1%EA%B2%A9%EC%9D%B4-%EC%9C%A0%ED%95%98%EC%97%AC-%ED%81%AC%EA%B2%8C-%ED%99%94%EB%82%98%EB%8A%94%EC%9D%BC-%EC%97%86%EC%9D%B4-%EB%AC%BC%ED%9D%90%EB%A5%B4%EB%93%AF-%EC%A7%80%EB%82%98%EA%B0%88-%EC%88%98-%EC%9E%88%EB%8B%A4
 ### * [장점]
 [장점]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EB%AA%A9%ED%91%9C%EA%B0%80-%EC%A3%BC%EC%96%B4%EC%A7%80%EB%A9%B4-%EC%B5%9C%EC%84%A0%EC%9D%84-%EB%8B%A4%ED%95%B4-%EB%8B%AC%EC%84%B1%ED%95%B4%EB%82%B8%EB%8B%A4
-### * 자주가는 사이트[자주가는 사이트link]
-
-### * 프로젝트 참여 목록[프로젝트 참여 목록link]
-
-### * 잘 다루는 SW language[잘 다루는 SW languagelink]
+### * [자주가는 사이트]
+[자주가는 사이트]:
+### * [프로젝트 참여 목록]
+[프로젝트 참여 목록]:
+### * [잘 다루는 SW language]
+[잘 다루는 SW language]:
 
 
 
