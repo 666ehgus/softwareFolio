@@ -33,7 +33,8 @@
 ###### 목표가 주어지면 최선을 다해 달성해낸다
 
 ###### 외부링크: <http://naver.com/>
-외부링크: <http://google.com/>
+###### 외부링크: <http://google.com/>
+###### 외부링크: <http://youtube.com/>
 
 ###### 캡스톤 디자인(capstone design)
 2018.03.28~2018.06.03(이도영교수 외 4명)
