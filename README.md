@@ -6,7 +6,7 @@
 ### * [소개][소개link]
 [소개link]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%95%88%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90-%EA%B1%B4%EC%B6%95%EA%B3%B5%ED%95%99%EA%B3%BC-4%ED%95%99%EB%85%84-%EA%B9%80%EB%8F%84%ED%98%84
 ### * 학력
-### * 성격[성격link]
+### * [성격link]
 [성격link]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%84%B1%EA%B2%A9%EC%9D%B4-%EC%9C%A0%ED%95%98%EC%97%AC-%ED%81%AC%EA%B2%8C-%ED%99%94%EB%82%98%EB%8A%94%EC%9D%BC-%EC%97%86%EC%9D%B4-%EB%AC%BC%ED%9D%90%EB%A5%B4%EB%93%AF-%EC%A7%80%EB%82%98%EA%B0%88-%EC%88%98-%EC%9E%88%EB%8B%A4
 ### * 장점[장점link]
 
