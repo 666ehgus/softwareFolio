@@ -2,7 +2,7 @@
 
 ![KakaoTalk_20210630_092432436](https://user-images.githubusercontent.com/86451066/123884046-3c458980-d985-11eb-9e61-72893bfe9ad9.jpg)
 
-<img src="https://user-images.githubusercontent.com/86451066/123884046-3c458980-d985-11eb-9e61-72893bfe9ad9" width="320px" height="240px"
+<img src="https://user-images.githubusercontent.com/86451066/123884046-3c458980-d985-11eb-9e61-72893bfe9ad9" width="320px" height="240px"title="px(픽셀) 크기 설정" alt="Gitbut_fork"></img><br/>
 
 ##
 
