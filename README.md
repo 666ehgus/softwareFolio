@@ -11,11 +11,11 @@
 ### * [장점]
 [장점]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EB%AA%A9%ED%91%9C%EA%B0%80-%EC%A3%BC%EC%96%B4%EC%A7%80%EB%A9%B4-%EC%B5%9C%EC%84%A0%EC%9D%84-%EB%8B%A4%ED%95%B4-%EB%8B%AC%EC%84%B1%ED%95%B4%EB%82%B8%EB%8B%A4
 ### * [자주가는 사이트]
-[자주가는 사이트]:
+[자주가는 사이트]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%99%B8%EB%B6%80%EB%A7%81%ED%81%AC-httpnavercom
 ### * [프로젝트 참여 목록]
-[프로젝트 참여 목록]:
+[프로젝트 참여 목록]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8capstone-design
 ### * [잘 다루는 SW language]
-[잘 다루는 SW language]:
+[잘 다루는 SW language]:https://github.com/666ehgus/softwareFolio/blob/main/README.md#%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-c%EC%96%B8%EC%96%B4
 
 
 
